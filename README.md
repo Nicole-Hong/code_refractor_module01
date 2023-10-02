@@ -1,3 +1,3 @@
 # Code Refactor Starter Code
 
-Nicole-Hong.github.io
+https://Nicole-Hong.github.io
