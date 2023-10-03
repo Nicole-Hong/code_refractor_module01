@@ -10,12 +10,12 @@ Deployed Website: https://nicole-hong.github.io/code_refractor_module01/
 This repository has the following main directories and files:
 
 #### __Directories__
-* __data:__ flight data with JSON strings
-* __output files:__ outputs from the mapper and reducer programs, and from the process of creating the CSV output file
-* __images:__ diagrams created for summary of processes and components
+* __Develop:__ this folder contains the files used to develop the marketing website, which were organized in the following two folders below
+* __css:__ the folder contains 'style.css'
+* __images:__ the folder contains various image files that were the main visual contents of the online marketing campaign
 
 #### __Files__
-* __mapper.ipynb:__ mapper program in Python
-* __reducer.ipynb:__ reducer program in Python
-* __PPT Slides.pdf:__ the group presentation ppt slides
+* __index.html:__ the main html file for creating the marking website
+* __.gitignore:__ the file with the list of files that bypass the git operation
+* __style.css:__ this file was placed under 'css' folder above, which was the main stylesheet for the html file
 
